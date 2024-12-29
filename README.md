@@ -19,7 +19,7 @@ I'm a passionate software developer with a keen interest in building impactful p
 
 ## 📫 How to reach me
 - LinkedIn: [CollinsFabian](https://www.linkedin.com/in/CollinsFabian)
-- Email: [alphaalive22@gmail.com)](mailto: alphaalive22@gmail.com)
+- Email: [alphaalive22@gmail.com](mailto:alphaalive22@gmail.com)
 
 ## 💼 Projects
 Here are some of my notable projects:
