@@ -1,13 +1,13 @@
 # Hi there, I'm CollinsFabian 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=CollinsFabian&color=brightgreen)
+![Profile Views](https://komarev.com/ghpvc/?username=CollinsFabian&color=green)
 
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in building impactful projects. I love learning new technologies and applying them to solve real-world problems.
 
 ## 🔧 Technologies & Tools
 - **Languages**: PHP, Python, JavaScript, C#
-- **Web Development**: HTML, CSS, React, Node.js, Laravel
+- **Web Development**: HTML, CSS, ReactJS, Node.js, Laravel
 - **Databases**: MySQL, MongoDB
 - **Version Control**: Git, GitHub
 - **Other Tools**: × Docker, Kubernetes, AWS, Azure ×
