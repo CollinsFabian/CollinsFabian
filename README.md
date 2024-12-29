@@ -1,6 +1,6 @@
 # Hi there, I'm CollinsFabian 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=CollinsFabian&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=CollinsFabian&color=blue)
 
 ## 🚀 About Me
 I'm a passionate software developer with a keen interest in building impactful projects. I love learning new technologies and applying them to solve real-world problems.
