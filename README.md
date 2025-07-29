@@ -9,8 +9,10 @@ I'm a passionate software developer with a keen interest in building impactful p
 - **Languages**: PHP, Python, JavaScript, C#
 - **Web Development**: HTML, CSS, ReactJS, Node.js, Laravel
 - **Databases**: MySQL, MongoDB
+<!--
 - **Version Control**: Git, GitHub
-<!-- - **Other Tools**: Docker, Kubernetes, AWS, Azure -->
+- **Other Tools**: Docker, Kubernetes, AWS, Azure
+-->
 
 ## 📈 GitHub Stats
 ![CollinsFabian's GitHub Stats](https://github-readme-stats-zi-urch.vercel.app/api?username=CollinsFabian&show_icons=true&theme=radical&cache_seconds=3600)
@@ -18,7 +20,7 @@ I'm a passionate software developer with a keen interest in building impactful p
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&hide=css,html)
 
 ## 📫 How to reach me
-<!-- - LinkedIn: [CollinsFabian](https://www.linkedin.com/in/CollinsFabian)-->
+- LinkedIn: [CollinsFabian](https://www.linkedin.com/in/uchenna-collins-onuegbu-69b781377)
 - Email: [alphaalive22@gmail.com](mailto:alphaalive22@gmail.com)
 
 ## 💼 Projects
