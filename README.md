@@ -15,7 +15,7 @@ I'm a passionate software developer with a keen interest in building impactful p
 ## 📈 GitHub Stats
 ![CollinsFabian's GitHub Stats](https://github-readme-stats-zi-urch.vercel.app/api?username=CollinsFabian&show_icons=true&theme=radical&cache_seconds=3600)
 
-![Top Langs](https://github-readme-stats-zi-urch.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&cache_seconds=3600)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&hide=css,html)
 
 ## 📫 How to reach me
 <!-- - LinkedIn: [CollinsFabian](https://www.linkedin.com/in/CollinsFabian)-->
