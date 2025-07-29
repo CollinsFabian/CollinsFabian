@@ -13,7 +13,7 @@ I'm a passionate software developer with a keen interest in building impactful p
 <!-- - **Other Tools**: Docker, Kubernetes, AWS, Azure -->
 
 ## 📈 GitHub Stats
-![CollinsFabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CollinsFabian&show_icons=true&theme=radical)
+![CollinsFabian's GitHub Stats](https://github-readme-stats.vercel.app/api?username=CollinsFabian&show_icons=true&theme=radical&v=1)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical)
 
