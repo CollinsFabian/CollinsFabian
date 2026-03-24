@@ -25,8 +25,8 @@ I'm a passionate software developer with a keen interest in building impactful p
 
 ## Projects
 Here are some of my notable projects:
-- [APP.php](https://github.com/CollinsFabian/AnotherPHPProject): A mini PHP framework.
-- [Anony](https://github.com/CollinsFabian/Anony): A "secret" messaging platform. Have people send you messages they wouldn't normally send you.
+- [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
+- [ZQuery](https://github.com/CollinsFabian/ZQuery): ZQuery is a lightweight PHP database query builder and ORM.
 
 <!-- ## Blog
 I also write about my experiences and share knowledge on my [blog](https://collinsfabianblog.com). -->
