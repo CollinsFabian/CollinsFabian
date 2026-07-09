@@ -19,6 +19,15 @@ I'm a passionate software developer with a keen interest in building impactful p
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&hide=css,html)
 
+<div align="center">
+  <a href="https://commit-history.com/CollinsFabian">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://commit-history.com/embed/CollinsFabian?theme=dark" />
+      <img alt="CollinsFabian's commit history" src="https://commit-history.com/embed/CollinsFabian" />
+    </picture>
+  </a>
+</div>
+
 ## How to reach me
 - LinkedIn: [CollinsFabian](https://www.linkedin.com/in/uchenna-collins-onuegbu-69b781377)
 - Email: [alphaalive22@gmail.com](mailto:alphaalive22@gmail.com)
