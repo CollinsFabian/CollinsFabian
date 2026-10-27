@@ -7,8 +7,8 @@ I'm a passionate software developer with a keen interest in building impactful p
 
 ## Technologies & Tools
 - **Languages**: PHP, Python, JavaScript, C#
-- **Web Development**: HTML, CSS, ReactJS, Node.js, Laravel
-- **Databases**: MySQL, MongoDB
+- **Web Development**
+- **Databases**: MySQL, SQLite
 <!--
 - **Version Control**: Git, GitHub
 - **Other Tools**: Docker, Kubernetes, AWS, Azure
@@ -34,9 +34,10 @@ I'm a passionate software developer with a keen interest in building impactful p
 
 ## Projects
 Here are some of my notable projects:
-- [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
-- [ZQuery](https://github.com/CollinsFabian/ZQuery): ZQuery is a lightweight PHP database query builder and ORM.
 
+- [ZQuery](https://github.com/CollinsFabian/ZQuery): ZQuery is a lightweight PHP database query builder and ORM.
+[Zing](https://github.com/CollinsFabian/Zing): Blade-inspired PHP template engine — compile-to-PHP with cached output. [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
+-
 <!-- ## Blog
 I also write about my experiences and share knowledge on my [blog](https://collinsfabianblog.com). -->
 
