@@ -36,8 +36,9 @@ I'm a passionate software developer with a keen interest in building impactful p
 Here are some of my notable projects:
 
 - [ZQuery](https://github.com/CollinsFabian/ZQuery): ZQuery is a lightweight PHP database query builder and ORM.
-[Zing](https://github.com/CollinsFabian/Zing): Blade-inspired PHP template engine — compile-to-PHP with cached output. [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
--
+- [Zing](https://github.com/CollinsFabian/Zing): Blade-inspired PHP template engine - compile-to-PHP with cached output.
+- [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
+
 <!-- ## Blog
 I also write about my experiences and share knowledge on my [blog](https://collinsfabianblog.com). -->
 
