@@ -17,7 +17,7 @@ I'm a passionate software developer with a keen interest in building impactful p
 ## GitHub Stats
 ![CollinsFabian's GitHub Stats](https://github-readme-stats-zi-urch.vercel.app/api?username=CollinsFabian&show_icons=true&theme=radical&cache_seconds=2400)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&hide=css,html)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CollinsFabian&layout=compact&theme=radical&hide=css,html&cache_seconds=86400)
 
 <div align="center">
   <a href="https://commit-history.com/CollinsFabian">
@@ -37,7 +37,6 @@ Here are some of my notable projects:
 
 - [ZQuery](https://github.com/CollinsFabian/ZQuery): ZQuery is a lightweight PHP database query builder and ORM.
 - [Zing](https://github.com/CollinsFabian/Zing): Blade-inspired PHP template engine - compile-to-PHP with cached output.
-- [Ziro.php](https://github.com/CollinsFabian/Ziro): A mini PHP framework.
 
 <!-- ## Blog
 I also write about my experiences and share knowledge on my [blog](https://collinsfabianblog.com). -->
